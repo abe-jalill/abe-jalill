@@ -1,16 +1,24 @@
-## Hi there 👋
+<sub>hey, i’m abe.</sub>
 
-<!--
-**abe-jalill/abe-jalill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>civil engineering student<br>
+i like building things that make life a little easier.</sub>
 
-Here are some ideas to get you started:
+<sub>currently working on a few things.</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✳︎ best project
+
+**CoursePro** (formerly CanvasPro) — a better way to stay on top of college.
+
+<sub>assignments, courses, and everything in between. built for students who just want things to be simple.</sub>
+
+[**check it out ↗**](https://canvaspro.app)
+
+---
+
+### elsewhere in the background
+
+<sub>↳ two other projects in the works.</sub>
+
+---
