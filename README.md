@@ -1,4 +1,4 @@
-<sub>hey, i’m abe.</sub>
+<sub>.</sub>
 
 <sub>civil engineering student<br>
 i like building things that make life a little easier.</sub>
