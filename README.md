@@ -5,13 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=27&duration=3500&pause=1300&color=8B949E&vCenter=true&width=490&height=45&lines=hey%2C+i%27m+abe.;i+build+things+for+the+internet.;always+working+on+something.)](https://git.io/typing-svg)
 
 <sub>i like turning random ideas into things people can actually use.<br>
-big fan of simple design, small details, and making things feel effortless.</sub>
-
 </div>
 
 ---
 
-### ✳︎ best project
+###  best project
 
 **CoursePro** (formerly CanvasPro) — a better way to stay on top of college.
 
