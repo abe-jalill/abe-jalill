@@ -19,10 +19,7 @@
 
 ---
 
-### a little more
-
-<sub>↳ usually building, testing, or redesigning something.<br>
-↳ two other projects in the works. more on those later.</sub>
+↳ two other projects in the works. </sub>
 
 ---
 
